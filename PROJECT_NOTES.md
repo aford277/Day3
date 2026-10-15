@@ -1,6 +1,6 @@
 # Test-Data Manager
 
-Status: not started
+Status: Done
 
 ## How to run
 
@@ -8,4 +8,4 @@ TODO
 
 ## Your name
 
-TODO
+Aiden Ford
