@@ -1,0 +1,12 @@
+*   5f7b14a (HEAD -> main, origin/main) Merge branch 'feature/test-data-manager'
+|\  
+| * b3c9dea Mark status done in PROJECT_NOTES
+| * 98f4798 Add status counts and planned-vs-executed check
+| * 2b7ee8f Add lookup by test ID with dict.get
+| * 1e27eb1 Add grouping by module by defaultdict
+| * eb37c6a Add duplicate removal with a set
+| * 18bc29a Added files
+| * faa9772 Switched branches (part 0)
+* | 2320ff7 Document how to run (parallel work on main)
+|/  
+* 30e7b1d Initial commit: starter files
