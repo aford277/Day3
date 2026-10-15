@@ -1,0 +1,7 @@
+(a) seen_ids is better as a set since we wanted them to be unique.
+lookup is best as a dict because we need to use it to find matching pairs of data.
+(b) You'd have to make a loop and iterate through the whole thing.
+
+(c) It prevented me from committing or pushing incorrect changes to the main branch.
+
+(d) I made a syntax error when creating the lookup dict because I forgot to add braces around it. I fixed it by adding the braces.
